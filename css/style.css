@@ -124,6 +124,46 @@
     border-color: transparent!important;
 }
 
+/* about */
+#about{
+    background-color: rgba(179,179,179,0.05);
+}
+
+/* newslatter */
+#newslatter{
+    background-color: rgba(179,179,179,0.05);
+}
+
+#newslatter p{
+    max-width: 700px;
+}
+
+#newslatter .input-group{
+    max-width: 700px;
+}
+
+#newslatter .form-control{
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+
+#newslatter .btn{
+    background-color: var(--pink);
+    color: #fff;
+    border: var(--pink);
+}
+
+#newslatter .btn:hover{
+    background-color: #000;
+    border-color: #000;
+}
+
+/* footer */
+footer .brand{
+    font-family: var(--lg-font);
+    letter-spacing: 2px;
+}
+
 /* @ media quires */
 @media (min-width:992px) {
     .nav-item{
