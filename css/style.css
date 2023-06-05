@@ -47,7 +47,7 @@
 
 /* header */
 #header{
-     background-image: url(images/banner-img-1.jpg);
+     background-image: url(../images/banner-img-1.jpg);
      background-repeat: no-repeat;
      background-size: cover;
 }
@@ -105,7 +105,7 @@
 
 /* offers */
 #offers{
-    background-image: url(images/offer_img.jpg);
+    background-image: url(../images/offer_img.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
